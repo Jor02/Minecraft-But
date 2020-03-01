@@ -2,7 +2,8 @@
 A tool for creating minecraft resourcepacks
 # Minecraft-But
 ![logo](https://github.com/Jor02/Minecraft-But/blob/master/Minecraft%20But/assets/Minecraft%20but.png?raw=true)
-A tool for easly creating minecraft resourcepacks
+A tool for easly creating minecraft resourcepacks.
+# [Latest release](https://github.com/Jor02/Minecraft-But/releases/latest)
 # How to use
 **First launch**
 At first launch the program will ask you if you want to automaticly extract the assets from a minecraft jar file, select the jar of the minecraft version you wanna make a resourcepack for and wait for it to extract.
